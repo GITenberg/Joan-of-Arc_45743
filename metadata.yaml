@@ -1,0 +1,32 @@
+_repo: Joan-of-Arc_45743
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45743-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: Time Inc. presents a biographical sketch of Joan of Arc, as part of the
+  "LIFE" magazine Hall of Heroes. Saint Joan of Arc (c.1412-1431) is the national
+  heroine of France because of her nationalistic efforts against the English. Joan
+  of Arc was burned at the stake by the English on May 30, 1431.
+gutenberg_issued: '2014-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45743'
+  lccn: '19014444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Joan, of Arc, Saint, 1412-1431'
+title: Joan of Arc
+url: http://www.gutenberg.org/ebooks/45743
